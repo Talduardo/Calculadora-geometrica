@@ -1,4 +1,4 @@
-# 🧮 Calculadora de ângulos na trigrometria
+# 🧮 Calculadora de ângulos na trigometria
 - Calcula o seno do ângulo;
 - Calcula o cosseno do ângulo;
 - Calcula a tangente do ângulo;
